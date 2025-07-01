@@ -21,4 +21,4 @@ Operates within strict ethical, legal, and privacy boundaries
 
 Impact:
 
-By automating complex scanning tasks, BreachBasket reduces human error, lowers operational costs, and enables faster identification of high-risk vulnerabilities in retail platforms—empowering organizations to strengthen consumer trust and defend against fraud.
+By automating complex scanning tasks, BreachBasket reduces human error, lowers operational costs, and enables faster identification of high-risk vulnerabilities in retail platforms. Therefore, empowering organizations to strengthen consumer trust and defend against fraud.
