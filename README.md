@@ -1,10 +1,9 @@
 # security-automation-tool
 
-<h1>Breach Basket: Bash Script Automated Security Testing Tool</h1>
+<h1>Breach Basket: (Bash Script) Automation Tool</h1>
 
 Poster:
-
-[BreachBasket Poster.pdf](https://github.com/user-attachments/files/20989228/BreachBasket.Poster.pdf)
+![Screenshot 2025-06-30 185352](https://github.com/user-attachments/assets/56974fd1-2289-4d96-8bce-1a4e4083d576)
 
 Role: Project Manager
 Team: Luke B, Carl L, Cody C, Lauren P (Cybersecurity Specialists)
