@@ -2,7 +2,7 @@
 
 <h1>Breach Basket: (Bash Script) Automation Tool</h1>
 
-<h2>Handmade Poster I Created Using Adobe Illustrator:</h2>h2>
+<h2>Handmade Poster I Created Using Adobe Illustrator:</h2>
 
 ![Screenshot 2025-06-30 185352](https://github.com/user-attachments/assets/56974fd1-2289-4d96-8bce-1a4e4083d576)
 
